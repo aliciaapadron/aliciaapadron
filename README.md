@@ -17,5 +17,6 @@ Hello, my name is Alicia and I am a very creative person 🎨, I have always lik
 ### Links
 
 
-🦄 [LinkedIn](https://www.linkedin.com/in/aliciapadronpasquin/)
-🦚[Twitter](https://twitter.com/aliciaapadronp)
+- 🦄 [LinkedIn](https://www.linkedin.com/in/aliciapadronpasquin/)
+
+- 🦚[Twitter](https://twitter.com/aliciaapadronp)
